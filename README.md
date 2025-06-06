@@ -13,7 +13,13 @@ Foco em clareza, manutenibilidade e desempenho
 <span style="color: #555; background: #e1e1e1; padding: 4px 8px; border-radius: 6px;">VS Code</span>
 
 Estatísticas do GitHub
-<div align="center"> <img alt="Estatísticas GitHub" height="170em" src="https://github-readme-stats.vercel.app/api?username=Ramirez308&show_icons=true&hide_border=true&theme=default" /> <img alt="Linguagens mais usadas" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirez308&layout=compact&hide_border=true&theme=default"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramirez308&show_icons=true&theme=radical&border_radius=15" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirez308&layout=compact&theme=radical&border_radius=15" alt="Linguagens mais usadas" />
+</div>
+
+
 Contato
 Email: rodriguescayson@email.com
 Discord: cayson308.#0000
