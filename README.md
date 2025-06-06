@@ -8,14 +8,9 @@ Conhecimento em estruturas de dados, otimização e organização modular
 
 Foco em clareza, manutenibilidade e desempenho
 
-Linguagens
-PAWN — Especialidade principal, com foco em sistemas, bancos de dados e organização modular.
-
-Banco de Dados
-SQLite — Utilizado para armazenar dados persistentes de jogadores, veículos, objetos e outras entidades.
-
-Ambiente de Desenvolvimento
-Visual Studio Code — Interface limpa, com extensões específicas para PAWN e SQLite. Configurado com linting e syntax highlight.
+<span style="color: #555; background: #e1e1e1; padding: 4px 8px; border-radius: 6px;">PAWN</span>
+<span style="color: #555; background: #e1e1e1; padding: 4px 8px; border-radius: 6px;">SQLite</span>
+<span style="color: #555; background: #e1e1e1; padding: 4px 8px; border-radius: 6px;">VS Code</span>
 
 Estatísticas do GitHub
 <div align="center"> <img alt="Estatísticas GitHub" height="170em" src="https://github-readme-stats.vercel.app/api?username=Ramirez308&show_icons=true&hide_border=true&theme=default" /> <img alt="Linguagens mais usadas" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirez308&layout=compact&hide_border=true&theme=default"/> </div>
